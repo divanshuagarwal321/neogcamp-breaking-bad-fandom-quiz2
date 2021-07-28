@@ -1,4 +1,4 @@
-#BREAKING BAD FANDOM QUIZ APP
+# BREAKING BAD FANDOM QUIZ APP
 
 This is a CLI app for BREAKING BAD Quiz created using javascript.
 
